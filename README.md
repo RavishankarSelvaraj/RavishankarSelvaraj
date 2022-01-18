@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @RavishankarSelvaraj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ravistark7&&show_icons=true&theme=graywhite&count_private=true" alt="ravistark7's Github Stats"/>](https://github.com/RavishankarSelvaraj)
@@ -16,3 +12,7 @@
 RavishankarSelvaraj/RavishankarSelvaraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+- 👀 I’m interested in Coding, CFD simulation.
+- 🌱 I’m currently learning Parallel Programming.
+- 📫 How to reach me ravishankarselvaraj7@gmail.com
